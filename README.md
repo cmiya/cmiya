@@ -1,10 +1,3 @@
-<style>
-.custom-image {
-  width: 50px;
-  height: auto;
-}
-</style>
-
 # Hi there 👋, I'm Chelsea Miya
 ### Postdoctoral Fellow at the Sherman Centre for Digital Scholarship (SCDS)
 
