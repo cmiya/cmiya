@@ -5,7 +5,6 @@
 - :busts_in_silhouette: I am a Research Affiliate of the [SpokenWeb Network](https://spokenweb.ca/) and [Sound Studies Institute](https://soundstudies.ca/).
 - :heart: I have a passion for digital archives and curation... and rock climbing!
 - :headphones: Check out my podcast episodes ["Sounds of Data"](https://spokenweb.ca/podcast/episodes/drum-codes-part-2-sounds-of-data/) and ["Academics on Air"](https://spokenweb.ca/podcast/episodes/academics-on-air/) on the [SpokenWeb Podcast](https://spokenweb.ca/podcast/episodes/).
-- 📫 Contact Me! miyac@mcmaster.ca
 
 ### Connect With Me:
   <a href="https://www.linkedin.com/in/chelsea-miya-a261b392" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Linked In" width="40" height="40"/> </a>
