@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Chelsea Miya
-### Assistant Professor at the University of Guelph's Culture and Technology Studies (CTS) program
+### Assistant Professor at the University of Guelph's Culture and Technology Studies (CTS) program and School of English, Theatre, and Creative Writing (SOTEC)
 
 - :leaves: As an instructor and researcher at the U of Guelph, I teach classes and work on projects that engage with questions of ethics, gender, and sustainability in the context of data cultures and digital design.
 - :busts_in_silhouette: I am a Research Affiliate of the [SpokenWeb Network](https://spokenweb.ca/), [THINC Lab](https://www.uoguelph.ca/arts/dhguelph/thinc), the [Digital Feminist Network](https://digfemnet.org/) and McMaster University's [Sherman Centre for Digital Scholarship](https://scds.ca/)).
